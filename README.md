@@ -15,5 +15,3 @@ Objetivo:
 
 Desenvolver um Aplicativo utilizando todo o conhecimento do curso.
 
-Manual de Uso:
-https://github.com/xaotix/PME_Mobile/blob/master/Manual.pdf
