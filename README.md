@@ -1,9 +1,9 @@
 # PME
-Trabalho G2 Tópicos Especiais em Computação
+
 
 <h2><b>Plano Mestre de Engenharia</h2></b>
 
-Daniel Lins Maciel, matrícula: 1119297
+Software para programação e apontamento de projetos de engenharia
 
 Clique na imagem abaixo para ver o vídeo:
 
